@@ -1,0 +1,354 @@
+
+
+/* -------------------------------- 
+
+
+
+
+
+elcterian responsive
+
+
+
+/* 320px --*/
+
+
+/* 375px --*/
+
+
+
+/* 414px -- */
+
+
+
+/* 768px -- */
+
+
+/* 1024px -- */
+
+
+
+
+
+
+
+
+
+
+/* Start 1024px media quiery -- */
+
+
+@media (max-width: 1024px){
+.block-content.special {
+    padding: 24px !important;
+}
+
+
+}
+
+/* End 1024px media quiery -- */
+
+
+
+
+
+
+
+
+/* Start 768px media quiery -- */
+
+
+
+
+
+@media  (max-width: 768px){
+
+.main-title.text-center {
+    text-align: left;
+}
+
+    section.Header{
+
+    text-align: center;
+
+
+
+}
+
+.col-md-4.number1 {
+    display: none;
+}
+.col-md-4.number2{
+
+    display: block;
+        margin-top: 30px;
+}
+
+
+
+.header-content {
+    margin-top: 80px;
+    text-align: left;
+}
+
+
+.fixed-call-number .holder{
+
+    display: block;
+    text-align: center;
+
+}
+
+.fixed-call-number{
+
+    width:100%;
+    left: 0;
+    padding: 0;
+    top:0;
+}
+h3.fixed-call{
+    font-size: 30px;
+}
+
+.fixed-call-number p{
+    font-size: 19px;
+}
+
+button.btn.btn-info.call-now{
+
+
+
+    width:50%;
+
+}
+
+
+section.call-to-action.primary h3 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 26px;
+}
+
+
+
+}
+
+/* -------------------------------- 
+
+
+
+
+
+
+/* Start 320px media quiery -- */
+
+
+
+@media (max-width:320px){
+
+
+.fixed-call-number p {
+    font-size: 14px;
+}
+h3.fixed-call{
+    font-size: 24px;
+}
+
+}
+
+
+
+/* End 320px media quiery -- */
+
+@media (max-width:768px){
+
+.header-content img {
+    width: 350px;
+    height: 147px;
+        margin-top: 100px;
+}
+#header h1{
+
+    font-size: 33px;
+    text-align: left;
+    line-height: 33px;
+}
+
+blockquote {
+    margin-bottom: 20px;
+    padding: 10px 34px;
+    }
+
+section.call-to-action.primary h3{
+    line-height: 26px;
+}
+#header p {
+    font-size: 17px;
+    line-height: 30px;
+    width: 100% !important;
+    text-align: left !important;
+
+}
+
+.contact-us.second {
+    margin-top: 0px;
+}
+.main-title .title{
+
+    font-size: 20px;
+}
+.image-holder .block-content .title{
+
+        font-size: 13px;
+
+}
+.block-icon-1 .content-info .title{
+
+    font-size: 14px;
+}
+
+.contact-us{
+
+    margin-top: 52px;
+        margin-bottom: 10px;
+}
+
+}
+
+
+
+
+
+
+
+@media (max-width:375px){
+
+
+.main-title .title{
+
+    font-size: 17px;
+}
+h2.clientsP{
+    font-size: 24px;
+}
+.fixed-call-number p {
+    font-size: 15px;
+}
+}
+
+
+
+
+@media (max-width: 360px){
+
+
+.header-content img {
+    width: 315px;
+    height: 125px;
+}
+.fixed-call-number p {
+    font-size: 13px;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 768px) {
+    #header{
+        background-color: #fff;
+        padding-top: 120px;
+    }
+ 
+    
+   
+    #floating-number {
+        padding: 0;
+        right: 0;
+        top: 0;
+        bottom: auto
+    }
+    #floating-number .holder,
+    #floating-number a {
+        border-radius: 0
+    }
+    #floating-number .holder {
+        width: 100%;
+        text-align: center
+    }
+    .form-container {
+        z-index: 999;
+        position: relative
+    }
+   
+}
+
+@media screen and (max-width:325px) {
+    #floating-number h3{
+        font-size: 35px;
+    }
+    
+}
+
+
+
+
+
+/* Start 414px media quiery -- */
+
+
+
+@media (max-width:414px){
+
+#header p {
+    font-size: 18px;
+    line-height: 30px;
+}
+.main-title .title{
+
+    font-size: 18px;
+}
+h2.clients{
+
+    font-size: 26px;
+}
+
+
+#header h1{
+
+    font-size: 24px;
+line-height: 40px;
+}
+.fixed-call-number p{
+
+    font-size: 16px;
+}
+p.copyright {
+   
+    font-size: 9px;
+}
+
+}
+
+
+
+
+
+/* End 414px media quiery -- */
+
